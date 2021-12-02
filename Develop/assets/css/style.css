@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* nav bar styles start */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +51,9 @@ p {
     font-size: 16px;
 }
 
+/*  meeting img styles start */
+
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 
 .float-left {
     float: left;
@@ -75,6 +80,8 @@ p {
     margin-left: 20px;
 }
 
+
+/* benefit aside bar styles start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
